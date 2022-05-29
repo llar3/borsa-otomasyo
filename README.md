@@ -1,0 +1,2 @@
+# borsa-otomasyo
+önmsizdir silinecektir
